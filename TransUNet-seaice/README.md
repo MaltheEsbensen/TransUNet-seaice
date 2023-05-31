@@ -10,3 +10,5 @@ Following packages and versions were used to develop and test the code along wit
 - sklearn==0.0
 - ipywidgets==8.0.2
 
+#Dataset
+the dataset can be downloaded from https://data.dtu.dk/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065
