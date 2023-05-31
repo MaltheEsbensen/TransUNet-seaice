@@ -1,4 +1,3 @@
-# AI4ArcticSeaIceChallenge
 Following packages and versions were used to develop and test the code along with the dependancies installed with pip:
 - python==3.9.11
 - jupyterlab==3.4.5
